@@ -9,13 +9,16 @@ body {
 
 body {
     /* Bật lên nếu bạn mún thêm ảnh nền */
-    background-image: url("./bg12.jpg");
+   
     background-color: rgb(182, 169, 182);
     background-size: cover;
     background-repeat: none;
     display: flex;
     align-items: center;
     position: relative;
+    background-image: url("./bánh\ sn.jpg");
+	background-size: cover;
+    background-repeat: none;
 }
 .firstclk {
     font-weight: 500;
